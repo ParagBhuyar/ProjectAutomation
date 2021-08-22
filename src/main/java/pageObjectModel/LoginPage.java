@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 
 public class LoginPage {
 
+	//login page updatye 
 	public WebDriver driver;
 	
 	By email=By.id("user_email");
